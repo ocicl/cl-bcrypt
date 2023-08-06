@@ -2,9 +2,8 @@
 
 Common Lisp system for parsing and generating bcrypt password hashes
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/dnaeon/cl-bcrypt.git   |
-| commit  | ac2da35  |
-| systems | cl-bcrypt |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-bcrypt.git |
+| commit  | 1d4e023                                     |
+| systems | cl-bcrypt                                   |
+|---------+---------------------------------------------|
